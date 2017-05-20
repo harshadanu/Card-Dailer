@@ -1,30 +1,19 @@
-## Welcome to GitHub Pages
+## Hello Card + Five Card Dialer Privacy Policy
 
-I can use the [editor on GitHub](https://github.com/harshadanu/carddailer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This document describes how Hello Card + Five Card Dialer handles your privacy. To summarize: Hello Card + Five Card Dialer itself functions entirely client side and does not share any data with external servers. All data is stored and processed on your phone.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Access to hardware in Android
 
-### Markdown
+Hello Card + Five Card Dialer may request access to the following hardware based on what features you use:
 
-Harshad is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+   1) CALL_PHONE
+      Application is using native calling functionality to make call.
+   
+   2) READ_CONTACTS
+      Application requests user for accessing phone contacts, that will make user to select the number directly from contact and dial to that number.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
